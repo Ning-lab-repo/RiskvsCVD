@@ -1,2 +1,0 @@
-# RiskvsCVD
-Risk vs CVD
