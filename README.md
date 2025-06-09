@@ -10,8 +10,8 @@ Our study provides a practical diagnostic approach for cardiovascular diseases (
 
 The main requirements are listed below:
 
-* •	Python 3.11
-* •	R 4.5.0
+*  Python 3.11
+*  R 4.5.0
 
 # Code Workflow for CVD Diagnosis Modeling Using Machine Learning
 
@@ -25,7 +25,7 @@ The main requirements are listed below:
 
 * Diagnostic Model Construction
 
- We constructed four machine learning diagnostic models: Support Vector Machine (SVM), Random Forest (RF), Logistic Regression (LR), and Extreme Gradient Boosting (XGBoost). Based on performance comparison, XGBoost, which achieved the best results, was selected for further analysis.
+  We constructed four machine learning diagnostic models: Support Vector Machine (SVM), Random Forest (RF), Logistic Regression (LR), and Extreme Gradient Boosting (XGBoost). Based on performance comparison, XGBoost, which achieved the best results, was selected for further analysis.
 
 * SHAP-Based Feature Importance Visualization
 
