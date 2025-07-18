@@ -17,7 +17,6 @@ The main requirements are listed below:
 *  pandas 2.2.0
 *  scikit-learn  1.4.0
 *  seaborn   0.13.2
-*  R 4.5.0
 *  dplyr	1.1.4
 *  ggplot2	3.5.1
 *  ggridges	0.5.6
