@@ -12,6 +12,19 @@ The main requirements are listed below:
 
 *  Python 3.11
 *  R 4.5.0
+*  joblib 1.3.2
+*  numpy  1.26.4
+*  pandas 2.2.0
+*  scikit-learn  1.4.0
+*  seaborn   0.13.2
+*  R 4.5.0
+*  dplyr	1.1.4
+*  ggplot2	3.5.1
+*  ggridges	0.5.6
+*  ggsankey	0.0.99999
+*  circlize	0.4.16
+*  ggvenn	0.1.10
+*  UpSetR	1.4.0
 
 # Code Workflow for CVD Diagnosis Modeling Using Machine Learning
 
